@@ -1,3 +1,7 @@
-.env
+venv/
+*.wav
 audio_replies/
+.env
 __pycache__/
+
+
